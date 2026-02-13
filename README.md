@@ -78,9 +78,10 @@ Aug 2020 – July 2024 | Hyderabad, India
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha-builds&show_icons=true&theme=default)
+![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha-builds&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-builds&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-builds&layout=compact&theme=tokyonight)
+
 
 ---
 

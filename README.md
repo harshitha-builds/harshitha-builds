@@ -78,9 +78,8 @@ Aug 2020 – July 2024 | Hyderabad, India
 
 ## 📊 GitHub Stats
 
-![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha-builds&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-builds&layout=compact&theme=tokyonight)
+- ⭐ Public Repos: https://github.com/harshitha-builds?tab=repositories
+- 🔥 Contributions: https://github.com/harshitha-builds
 
 
 ---
